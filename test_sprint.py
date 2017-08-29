@@ -1,5 +1,5 @@
 def inc(val):
-    return val +1
+    return val + 1
 
 def test_inc():
-    assert inc(5) == 6
+    assert inc(5) == 5
